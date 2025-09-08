@@ -1,8 +1,7 @@
 /**
  * LLM_Agent - Advanced AI Assistant
  * v2.8.0 (Updated: AI Pipe integration + bug fixes)
- * Author: Gaurav Tomar (Original) & Assistant (fixes)
- */
+ **/
 class LLM_Agent {
     constructor() {
         this.version = '2.8.0';
